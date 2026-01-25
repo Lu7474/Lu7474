@@ -8,8 +8,8 @@
 
   <p>
     <img alt="Python" src="https://img.shields.io/badge/Python-3.10+-3776AB?logo=python&logoColor=white">
-    <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white">
     <img alt="Django" src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white">
+    <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white">
     <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white">
     <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white">
   </p>
@@ -23,10 +23,12 @@
 ---
 
 ### 🎯 Цель
-Python Backend Engineer (Junior): FastAPI/Django, асинхронные сервисы, SQLAlchemy, Docker. Интересны финтех/телеком/SaaS. Формат: Remote/Hybrid (UTC+3), full‑time или проектная занятость.
+Python Backend Engineer (Junior): Django/FastAPI, асинхронные сервисы, SQLAlchemy, Docker.
+Интересны RetailTech/телеком/SaaS/HealthTech. 
+Формат: Remote/Hybrid (UTC+3), full‑time или проектная занятость.
 
 ### 💡 Обо мне
-- Пишу бэкенды на Python: FastAPI/Django, asyncio, SQLAlchemy (async), Docker.
+- Пишу бэкенды на Python: Django/Flask/FastAPI, asyncio, SQLAlchemy (async), Docker.
 - Люблю чистую архитектуру, предсказуемые миграции, понятные API и CI/CD.
 - Сейчас: открыт к предложениям / pet‑проекты.
 
