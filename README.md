@@ -81,13 +81,13 @@
 
 <!-- Генерируются автоматически через GitHub Actions — см. .github/workflows/profile-summary-cards.yml -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Lu7474/Lu7474/master/profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile Details" />
+  <img src="https://raw.githubusercontent.com/Lu7474/Lu7474/main/profile-summary-card-output/default/0-profile-details.svg" alt="Profile Details" />
   <br/>
-  <img src="https://raw.githubusercontent.com/Lu7474/Lu7474/master/profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Repos per Language" height="150" />
-  <img src="https://raw.githubusercontent.com/Lu7474/Lu7474/master/profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most Commit Language" height="150" />
+  <img src="https://raw.githubusercontent.com/Lu7474/Lu7474/main/profile-summary-card-output/default/1-repos-per-language.svg" alt="Repos per Language" height="150" />
+  <img src="https://raw.githubusercontent.com/Lu7474/Lu7474/main/profile-summary-card-output/default/2-most-commit-language.svg" alt="Most Commit Language" height="150" />
   <br/>
-  <img src="https://raw.githubusercontent.com/Lu7474/Lu7474/master/profile-summary-card-output/tokyonight/3-stats.svg" alt="Stats" height="150" />
-  <img src="https://raw.githubusercontent.com/Lu7474/Lu7474/master/profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Productive Time" height="150" />
+  <img src="https://raw.githubusercontent.com/Lu7474/Lu7474/main/profile-summary-card-output/default/3-stats.svg" alt="Stats" height="150" />
+  <img src="https://raw.githubusercontent.com/Lu7474/Lu7474/main/profile-summary-card-output/default/4-productive-time.svg" alt="Productive Time" height="150" />
 </div>
 
 ---
