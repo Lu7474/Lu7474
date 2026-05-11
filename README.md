@@ -27,15 +27,15 @@ Django · DRF · FastAPI · PostgreSQL · SQLAlchemy · Docker · pytest · aiog
 
 | Проект | Описание | Стек |
 |---|---|---|
-| [FinanceBot](https://github.com/Lu7474/FinanceBot) | Telegram-бот для учёта личных финансов: доходы и расходы, история операций, отчёты и тесты. | Python, aiogram 3, SQLAlchemy async, pytest |
-| [Selectel Vacancies API](https://github.com/Lu7474/selectel-backend-test) | FastAPI-сервис для парсинга вакансий, хранения данных в PostgreSQL и предоставления CRUD API. | FastAPI, PostgreSQL, SQLAlchemy, Docker |
-| [Custom Auth & RBAC API](https://github.com/Lu7474/custom-auth-rbac-api) | REST API на Django и DRF с собственной JWT-аутентификацией и ролевой моделью доступа. | Django, DRF, JWT, RBAC |
+| [Ogelegko](https://github.com/Lu7474/ogelegko) | Платформа пробных ОГЭ/ЕГЭ: роли учителя и ученика, автосохранение, импорт заданий, аналитика, экспорт результатов, deployed-проект | Django, PostgreSQL, BeautifulSoup, PyMuPDF, openpyxl |
+| [FinanceBot](https://github.com/Lu7474/FinanceBot) | Async Telegram-бот: ввод операций, история с пагинацией, диаграммы по категориям, 175 тестов. | aiogram 3, SQLAlchemy async, pytest |
+| [Custom Auth & RBAC API](https://github.com/Lu7474/custom-auth-rbac-api) | REST API с кастомной JWT-аутентификацией и RBAC-моделью доступа (3 роли, 8 эндпоинтов). | Django, DRF, JWT, RBAC |
 
 ## Дополнительные проекты
 
-- [Django Online Store](https://github.com/Lu7474/django-online-store) - интернет-магазин с каталогом, корзиной, заказами и аутентификацией пользователей.
-- [Booking API](https://github.com/Lu7474/booking-api) - REST API для бронирования жилья, управления объектами и отзывами.
-- [DRF Personal Finance API](https://github.com/Lu7474/drf-personal-finance) - REST API для учёта личных финансов.
+- [Car Booking Bot](https://github.com/Lu7474/telegram-car-booking-bot) — Telegram-бот: каталог авто с фильтрацией, оплата через Telegram Payments, админ-панель.
+- [Django Online Store](https://github.com/Lu7474/django-online-store) — интернет-магазин: каталог, корзина, заказы, PostgreSQL fulltext search.
+- [Booking API](https://github.com/Lu7474/booking-api) — REST API для бронирования жилья: аутентификация, управление объектами, отзывы.
 
 ## Что ищу
 
