@@ -27,9 +27,9 @@ Django · DRF · FastAPI · PostgreSQL · SQLAlchemy · Docker · pytest · aiog
 
 | Проект | Описание | Стек |
 |---|---|---|
-| [Ogelegko](https://github.com/Lu7474/ogelegko) | Платформа пробных ОГЭ/ЕГЭ: роли учителя и ученика, автосохранение, импорт заданий, аналитика, экспорт результатов, deployed-проект | Django, PostgreSQL, BeautifulSoup, PyMuPDF, openpyxl |
-| [FinanceBot](https://github.com/Lu7474/FinanceBot) | Async Telegram-бот: ввод операций, история с пагинацией, диаграммы по категориям, 175 тестов. | aiogram 3, SQLAlchemy async, pytest |
-| [Custom Auth & RBAC API](https://github.com/Lu7474/custom-auth-rbac-api) | REST API с кастомной JWT-аутентификацией и RBAC-моделью доступа (3 роли, 8 эндпоинтов). | Django, DRF, JWT, RBAC |
+| [Ogelegko](https://github.com/Lu7474/ogelegko) | Платформа пробных ОГЭ/ЕГЭ, работает в школе: парсинг заданий из ФИПИ/PDF, дедупликация по хэшу, аналитика по номерам заданий, экспорт в Excel/Word. | Django, PostgreSQL, BeautifulSoup, PyMuPDF, openpyxl, Cloudinary, WhiteNoise |
+| [FinanceBot](https://github.com/Lu7474/FinanceBot) | Async Telegram-бот для личных финансов: счета и переводы, бюджеты, учёт капитала (активы/пассивы), цели, долги, семейный бюджет на 5 человек, экспорт в Excel, авторассылки (APScheduler), 780+ тестов. | aiogram 3, SQLAlchemy async, pytest |
+| [Custom Auth & RBAC API](https://github.com/Lu7474/custom-auth-rbac-api) | REST API с кастомной JWT-аутентификацией и RBAC-моделью доступа (2 роли, 8 эндпоинтов). | Django, DRF, JWT, RBAC |
 
 ## Дополнительные проекты
 
