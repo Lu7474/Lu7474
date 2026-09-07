@@ -41,7 +41,7 @@ Django · DRF · FastAPI · PostgreSQL · SQLAlchemy · Docker · pytest · aiog
 
 Позицию Junior Python Backend Developer.
 
-Формат: удалённая работа.  
+Формат: удалённая работа, на месте работодателя, гибрид.  
 Занятость: полная занятость, частичная занятость или стажировка.  
 Часовой пояс: UTC+3.
 
